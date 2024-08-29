@@ -78,7 +78,7 @@ db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
-instance/posts.db
+#instance/posts.db
 .webassets-cache
 
 # Scrapy stuff:
